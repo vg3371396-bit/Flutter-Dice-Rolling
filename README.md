@@ -11,9 +11,6 @@ A simple and interactive Flutter application that simulates rolling a dice. The 
 * 📱 Clean and responsive UI
 * ⚡ Built with Flutter
 
-## 📸 Screenshots
-
-*Add screenshots of your app here.*
 
 ## 🚀 Getting Started
 
@@ -59,11 +56,12 @@ flutter run
 ```text
 lib/
 ├── main.dart
-├── screens/
-├── widgets/
+├── homepage.dart
+├── conttainer.dart
+├── dot.dart
+├── animcontainer.dart
 └── assets/
-    ├── images/
-    └── sounds/
+    ├── audio/dice-142528.mp3
 ```
 
 ## 🎮 How It Works
